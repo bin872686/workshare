@@ -3,6 +3,8 @@
 
 ## 语音唤醒
 
+[证书](https://github.com/liang97/workshare/blob/master/LICENSE)
+
 ## 语音识别
 
 ## 语音合成
